@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3b28b781-a64f-46c5-b744-c225cc42321b" 
+        solutionId="3b28b781-a64f-46c5-b744-c225cc42321b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Create_Slider"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="e72e12aa-0c6c-40a4-b65d-f1dcb74a67ad" />
+  </features>
+</package>
